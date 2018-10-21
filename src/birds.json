@@ -1,0 +1,62 @@
+[
+    {
+        "breed": "beak",
+        "image": "https://www.pexels.com/photo/animal-avian-beak-bird-349758/"
+    },
+    {
+        "breed": "bright",
+        "image": "https://www.pexels.com/photo/animal-avian-bird-bright-459198/"
+    },
+    {
+        "breed": "colorful",
+        "image": "https://www.pexels.com/photo/bird-red-animal-colorful-40984/"
+    },
+    {
+        "breed": "pigeon",
+        "image": "https://www.pexels.com/photo/bird-animal-white-pigeon-75973/"
+    },
+    {
+        "breed": "peacock",
+        "image": "https://www.pexels.com/photo/blue-peacock-71131/"
+    },
+    {
+        "breed": "wildlife",
+        "image": "https://www.pexels.com/photo/nature-bird-red-wildlife-36762/"
+    },
+    {
+        "breed": "duck",
+        "image": "https://www.pexels.com/photo/duckling-on-black-soil-during-daytime-162140/"
+    },
+    {
+        "breed": "cardinal",
+        "image": "https://www.pexels.com/photo/red-cardinal-bird-on-tree-branch-905248/"
+    },
+    {
+        "breed": "eagle",
+        "image": "https://www.pexels.com/photo/usa-bald-eagle-portrait-close-53581/"
+    },
+    {
+        "breed": "parrot",
+        "image": "https://www.pexels.com/photo/nature-bird-australia-king-parrot-106689/"
+    },
+    {
+        "breed": "feathered",
+        "image": "https://www.pexels.com/photo/white-and-blue-and-red-and-brown-feathered-bird-85674/"
+    },
+    {
+        "breed": "zoo",
+        "image": "https://www.pexels.com/photo/nature-bird-blue-zoo-57428/"
+    },
+    {
+        "breed": "exotic",
+        "image": "https://www.pexels.com/photo/bird-colorful-wildlife-exotic-56885/"
+    },
+    {
+        "breed": "green",
+        "image": "https://www.pexels.com/photo/green-bird-are-flying-1309848/"
+    },
+    {
+        "breed": "outdoors",
+        "image": "https://www.pexels.com/photo/bird-perching-on-outdoors-248303/"
+    }
+]
