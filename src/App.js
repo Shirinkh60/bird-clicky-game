@@ -29,7 +29,7 @@ class App extends Component {
         const findBird = this.state.unselectedBirds.find(item => item.breed === breed);
 
         if(findBird === undefined) {
-            // failure to select a new dog
+            // failure to select a new bird
             this.setState({ 
                 message: "You guessed incorrectly!",
                 topScore: (this.state.curScore > this.state.topScore) ? this.state.curScore : this.state.topScore,
@@ -39,7 +39,7 @@ class App extends Component {
             });
         }
         else {
-            // success to select a new dog
+            // success to select a new bird
             const newBird = this.state.unselectedBirds.filter(item => item.breed !== breed);
             
             this.setState({ 
